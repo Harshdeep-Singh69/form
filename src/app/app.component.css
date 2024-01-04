@@ -1,0 +1,19 @@
+.card{
+    width: 80%;
+    margin: auto;
+    padding: 30px;
+}
+.d-flex-sb{
+    display: flex;
+    justify-content: space-between;
+}
+.d-flex-c{
+    display: flex;
+    justify-content: center;
+}
+.pad-20{
+    padding: 20px;
+}
+.border-1px-grey{
+    border: 1px solid grey;
+}
